@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Caique, an avid student eager to learn.
+👋 Hi, i'm Caique, a student eager to learn.
 -
 ⚡ About me
 -
