@@ -25,6 +25,6 @@
 </p>
 
 <p align="center">
-  <img width="413px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqueoak&layout=compact&langs_count=10">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Caiqueoak&show_icons=true&theme=tokyonight">
+  <img width="427px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqueoak&layout=compact&langs_count=10">
+  <img width="427px" src="https://github-readme-stats.vercel.app/api?username=Caiqueoak&show_icons=true&theme=tokyonight">
 </p>
