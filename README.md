@@ -24,7 +24,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
-<p align="center" float='left' height='175px' >
-  <img width="auto" height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqueoak&layout=compact&langs_count=10">
-  <img width="auto" height='100%' src="https://github-readme-stats.vercel.app/api?username=Caiqueoak&show_icons=true&theme=tokyonight">
+<p align="center" float='left'  >
+  <img width="auto" height='175px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqueoak&layout=compact&langs_count=10">
+  <img width="auto" height='175px' src="https://github-readme-stats.vercel.app/api?username=Caiqueoak&show_icons=true&theme=tokyonight">
 </p>
