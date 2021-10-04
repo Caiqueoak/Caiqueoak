@@ -28,6 +28,6 @@
 </p>
 
 <p align="center" float='left'  >
-  <img width="auto" height='175px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqueoak&layout=compact&langs_count=10">
-  <img width="auto" height='175px' src="https://github-readme-stats.vercel.app/api?username=Caiqueoak&show_icons=true&theme=tokyonight">
+  <img width="auto" height='175px' alt='most used languages' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiqueoak&layout=compact&langs_count=10">
+  <img width="auto" height='175px' alt='github stats' src="https://github-readme-stats.vercel.app/api?username=Caiqueoak&show_icons=true&theme=tokyonight">
 </p>
