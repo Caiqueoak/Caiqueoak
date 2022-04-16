@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, i'm Caique, a web developer.</h2>
+<h2 align="center">👋 Hi, I'm Caique, a web developer.</h2>
 
 <h2 align="center">⚡ About me</h2>
 
