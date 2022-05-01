@@ -2,7 +2,7 @@
 
 <h2 align="center">⚡ About me</h2>
 
-<p> My passion for coding started when I made a simple tic-tac-toe game using Java. As simple as it is, I realized the potential a dev has to make things happen. Now I want to walk this path and evolve more.</p>
+<p> My passion for coding started when I made a simple tic-tac-toe game using Java. As simple as it was, I realized the potential a dev has to make things happen. Now I want to walk this path and evolve more.</p>
 
 <h2 align="center">:books: Stack</h2>
 
